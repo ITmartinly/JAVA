@@ -1,13 +1,13 @@
 # JAVA
 Simple Java Code
 
-Guidelines
+Purpose was to find out how a cash register and thermometer work;
 
-GroceryCost:
+### GroceryCost:
 
 Suppose that you want to calculate the total cost for 5 items. Write necessary Java statements (using a loop structure) that prompt the user to enter the price of the item and the quantity she/he bought,  display the total cost.
 
-TEMPERATURE:
+### TEMPERATURE:
 
 a.	Return the Celsius equivalent of a Fahrenheit temperature, using formula Celsius=5.0/9.0 *(Fahrenheit -32)
 
